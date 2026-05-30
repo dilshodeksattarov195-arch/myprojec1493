@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvtringify",
+        "uuid": 13787855,
+        "checksum": "kkjbyq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
